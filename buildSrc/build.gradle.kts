@@ -57,7 +57,7 @@ dependencies {
     implementation("org.eclipse.aether:aether-transport-file:1.0.0.v20140518")
     implementation("org.eclipse.aether:aether-transport-http:1.0.0.v20140518")
     implementation("org.eclipse.aether:aether-transport-wagon:1.0.0.v20140518")
-    implementation("org.apache.maven:maven-aether-provider:3.1.0")
+    implementation("org.apache.maven:maven-aether-provider:3.3.9")
 
     implementation("com.google.code.gson:gson:2.8.9")
     implementation("com.android.tools.build:gradle:7.2.2")
